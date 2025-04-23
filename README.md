@@ -43,6 +43,12 @@ A systematic personal huggingface learning and play around plan help anyone to g
 - [ ] 使用 `pipeline` 跑通情感分析、摘要、翻译任务
 - [ ] 浏览 Hugging Face Hub，下载模型
 - [ ] 阅读官方 QuickTour 教程
+- [ ] 熟悉 Hugging Face 官网结构：
+  - 🤖 **Models**：模型库，支持分类、生成、翻译、问答等任务，支持搜索、过滤。
+  - 📚 **Datasets**：标准数据集平台，支持自定义加载与社区共享。
+  - 📦 **Repositories**：代码与模型仓库托管，支持 git 操作。
+  - 🌐 **Spaces**：创建可交互的演示应用，常配合 Gradio 或 Streamlit。
+  - !pip install torch
 
 #### 📅 Week 2：微调与数据集处理
 - [ ] 熟悉 `datasets` 加载 IMDB/AG News
