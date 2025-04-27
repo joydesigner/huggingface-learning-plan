@@ -1,2 +1,5 @@
 .venv/
 __pycache__
+.github/secrets.env
+.github/copilot-instructions.md
+*/results/
