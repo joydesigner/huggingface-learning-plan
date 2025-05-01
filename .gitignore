@@ -4,3 +4,4 @@ __pycache__
 .github/copilot-instructions.md
 */results/
 .DS_Store
+*/.DS_Store
